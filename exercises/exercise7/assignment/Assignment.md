@@ -1,0 +1,1 @@
+Implement Comparable, so books are sorted by bookTitle. 

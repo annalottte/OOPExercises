@@ -1,0 +1,1 @@
+Implement method countVIPTickets() in Main class that counts VIP tickets. 

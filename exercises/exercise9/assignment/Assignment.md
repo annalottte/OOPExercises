@@ -1,0 +1,1 @@
+Create checked Custom exception - TicketNotFoundException and throw it when no ticket found. 
